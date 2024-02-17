@@ -1,3 +1,3 @@
 # MUSIC STORE
 **Schema**
-![Schema](/C:\Users\yoges\Downloads)
+![Gender](/Music-Store_SQL-Project/MusicDatabaseSchema.png)
