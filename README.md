@@ -1,3 +1,3 @@
 # MUSIC STORE
 **Schema**
-![Gender](/Music-Store_SQL-Project/MusicDatabaseSchema.png)
+![Gender](/Musicstorephotos/schema.png)
