@@ -1,3 +1,3 @@
 # MUSIC STORE
-**Schema**
+## Schema
 ![Gender](/Musicstorephotos/schema.png)
